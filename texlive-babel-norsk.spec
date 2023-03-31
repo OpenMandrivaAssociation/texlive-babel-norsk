@@ -1,6 +1,6 @@
 Name:		texlive-babel-norsk
 Version:	30281
-Release:	1
+Release:	2
 Summary:	TeXLive babel-norsk package
 Group:		Publishing
 URL:		http://tug.org/texlive
